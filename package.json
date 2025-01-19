@@ -1,0 +1,18 @@
+{
+  "name": "mt5-trading-bot",
+  "version": "1.0.0",
+  "description": "MT5 Trading Bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "mt5": "^1.0.0",
+    "vite": "^4.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^3.1.0"
+  }
+}
